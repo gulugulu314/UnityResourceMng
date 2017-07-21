@@ -1,0 +1,2 @@
+# UnityResourceMng
+AssetBundle ResourceUpdate
